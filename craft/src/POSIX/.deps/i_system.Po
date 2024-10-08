@@ -1,0 +1,105 @@
+i_system.o: i_system.c \
+  /home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libcxx/stdio.h \
+  /home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libcxx/__config \
+  /home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libc/stdio.h \
+  /home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libc/features.h \
+  /home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libc/bits/alltypes.h \
+  /home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/compat/stdarg.h \
+  /home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libc/stdarg.h \
+  /home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libcxx/stdlib.h \
+  /home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/compat/stdlib.h \
+  /home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libc/stdlib.h \
+  /home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libc/alloca.h \
+  /home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libc/unistd.h \
+  /home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libc/bits/posix.h \
+  /home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libc/sys/time.h \
+  /home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libc/sys/select.h \
+  /home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libcxx/ctype.h \
+  /home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/compat/ctype.h \
+  /home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libc/ctype.h \
+  /home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libc/signal.h \
+  /home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libc/bits/signal.h \
+  ../../src/doomtype.h ../../config.h \
+  /home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libcxx/limits.h \
+  /home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libc/limits.h \
+  /home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libc/bits/limits.h \
+  ../../src/m_fixed.h ../../src/i_system.h ../../src/doomdef.h \
+  ../../src/z_zone.h \
+  /home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libcxx/string.h \
+  /home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/compat/string.h \
+  /home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libc/string.h \
+  /home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libc/strings.h \
+  /home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libc/assert.h \
+  ../../src/m_swap.h ../../src/version.h
+
+/home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libcxx/stdio.h:
+
+/home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libcxx/__config:
+
+/home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libc/stdio.h:
+
+/home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libc/features.h:
+
+/home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libc/bits/alltypes.h:
+
+/home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/compat/stdarg.h:
+
+/home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libc/stdarg.h:
+
+/home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libcxx/stdlib.h:
+
+/home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/compat/stdlib.h:
+
+/home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libc/stdlib.h:
+
+/home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libc/alloca.h:
+
+/home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libc/unistd.h:
+
+/home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libc/bits/posix.h:
+
+/home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libc/sys/time.h:
+
+/home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libc/sys/select.h:
+
+/home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libcxx/ctype.h:
+
+/home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/compat/ctype.h:
+
+/home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libc/ctype.h:
+
+/home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libc/signal.h:
+
+/home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libc/bits/signal.h:
+
+../../src/doomtype.h:
+
+../../config.h:
+
+/home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libcxx/limits.h:
+
+/home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libc/limits.h:
+
+/home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libc/bits/limits.h:
+
+../../src/m_fixed.h:
+
+../../src/i_system.h:
+
+../../src/doomdef.h:
+
+../../src/z_zone.h:
+
+/home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libcxx/string.h:
+
+/home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/compat/string.h:
+
+/home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libc/string.h:
+
+/home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libc/strings.h:
+
+/home/csmith/work/emsdk-1.38.48/emscripten/tag-1.38.15/system/include/libc/assert.h:
+
+../../src/m_swap.h:
+
+../../src/version.h:
